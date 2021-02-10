@@ -1,0 +1,6 @@
+framework module Pods_TestPushApp {
+  umbrella header "Pods-TestPushApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
